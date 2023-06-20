@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RequestHeader;
  * <p>
  * AdminApiInterface is a admin service feign. The methods are used to perform various actions
  * such as clearing API permissions for an account, creating a new country, creating a new account,
- * creating a new operating unit, creating a new site etc.,
+ * creating a new operating unit, creating a new site etc...,
  * </p>
  *
  * @author Prabu created on Feb 10, 2023
